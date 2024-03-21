@@ -4,5 +4,6 @@ public class NewDemo {
 
         System.out.println("New New");
         System.out.println("New New New");
+        System.out.println("New New New New");
     }
 }
